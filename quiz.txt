@@ -1,0 +1,32 @@
+print("Quiz")
+
+print("1) Qual é o maior dinossauro existente em altura?")
+print("A) T-rex")
+print("B) Argentinossauro")
+print("C) Giganotossauro")
+resposta = input("Resposta: ")
+if resposta == "B":
+    print("Correto!")
+else:
+    print("Errado! A resposta correta é B) Argentinossauro")
+
+
+print("2) Dinossauros são considerados apenas seres terrestres?")
+print("A) Sim")
+print("B) Não")
+resposta = input("Resposta: ")
+if resposta == "A":
+    print("Correto!")
+else:
+    print("Errado! A resposta correta é A) Sim")
+
+# Pergunta 3
+print("3) Qual o significado da palavra dinossauro?")
+print("A) Batata")
+print("B) Galinha")
+print("C) lagarto terrivel")
+resposta = input("Resposta: ")
+if resposta == "B":
+    print("Correto!")
+else:
+    print("Errado! A resposta correta é C) lagarto terrivel")
