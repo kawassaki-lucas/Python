@@ -1,0 +1,4 @@
+ano = 2025
+ano_nasc = int(input("digite o ano de nascimento: "))
+idade = ano - ano_nasc
+print ("Idade em " ,ano, " é ", idade)
