@@ -1,0 +1,7 @@
+media = (nota1 + nota2 + nota3)/3
+print("Média ",media)
+
+if(media >=9):
+    print("PD")
+else:
+    print("ED")
